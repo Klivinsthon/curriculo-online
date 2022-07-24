@@ -1,0 +1,5 @@
+# CURRÍCULO  EM FORMA DE APLICAÇÃO
+
+- Feito com o intuito de trazer o currículo de forma dinâmica e interativa
+
+- Criado usando Bootstrap e Sass
