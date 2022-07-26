@@ -62,4 +62,14 @@ i.fa-brands {
     margin-right: 2px;
 }
 
-/* CONFIG INFORMAÇÕES */
+span.email {
+    display: inline;
+}
+
+/* MEDIAS */
+
+@media(max-width: 319px) {
+    span.email {
+        font-size: 0.8em;
+    }
+}
