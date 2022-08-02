@@ -4,4 +4,4 @@
 
 - Criado usando Bootstrap e Sass
 
-- Veja a aplicação rodando no [link](https://thriving-gumption-f05759.netlify.app/)
+- Veja a aplicação rodando no [link](https://klivinsthon.netlify.app/)
